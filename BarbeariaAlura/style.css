@@ -4,6 +4,7 @@
 
 .principal {
     background-color: #CCCCCC;
+    padding: 30px;
 }
 
 h1 {
@@ -24,12 +25,25 @@ em strong {
 
 .beneficios {
     background-color: #FFFFFF;
+    padding: 20px;
 }
 
 h2 {
     text-align: center;
 }
 
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin: 10%;
+}
+
 .itensDaLista {
+
     font-style: italic;
+}
+
+.imagemBeneficio {
+    width: 50%;
 }
