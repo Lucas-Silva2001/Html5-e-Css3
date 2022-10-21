@@ -1,3 +1,7 @@
+.titulo-principal {
+    padding-left: 20px;
+}
+
 #banner {
     width: 100%;
 }
@@ -5,10 +9,6 @@
 .principal {
     background-color: #CCCCCC;
     padding: 30px;
-}
-
-h1 {
-    text-align: center;
 }
 
 p {
@@ -28,7 +28,8 @@ em strong {
     padding: 20px;
 }
 
-h2 {
+h2,
+h3 {
     text-align: center;
 }
 
