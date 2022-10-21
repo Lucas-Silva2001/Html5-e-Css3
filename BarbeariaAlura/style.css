@@ -21,3 +21,7 @@ p {
 em strong {
     color: red;
 }
+
+.itensDaLista {
+    font-style: italic;
+}
